@@ -1,0 +1,12 @@
+body{
+	background: grey;
+	width: 960px;
+	height: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+}
+
+.derecha{
+	text-align: right;
+}
